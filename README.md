@@ -1,2 +1,2 @@
 # gitskills
- create a new branch named dev
+ create a new branch named devs
